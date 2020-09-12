@@ -1,7 +1,8 @@
 <template>
   <div>
     <v-content>
-      It Worked!
+     hiiiiii 
+      <breadCrumb/>
     </v-content>
   </div>
 </template>
